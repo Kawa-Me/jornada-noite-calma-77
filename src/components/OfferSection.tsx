@@ -134,13 +134,13 @@ const OfferSection = () => {
             <div className="text-center mb-6 md:mb-8">
               <div className="mb-4">
                 <p className="font-body text-soft-gray-dark line-through text-lg md:text-xl">
-                  De R$ 297
+                  De R$ 497
                 </p>
                 <p className="font-heading text-3xl md:text-5xl font-bold text-golden-yellow mb-2">
-                  R$ 97 à vista
+                  R$ 147 à vista
                 </p>
                 <p className="font-body text-base md:text-lg text-night-blue">
-                  ou 12x de <strong>R$ 11,28</strong> no cartão
+                  ou 12x de <strong>R$ 17,09</strong> no cartão
                 </p>
               </div>
               <p className="font-body text-sm text-success-green font-semibold px-2">
@@ -172,7 +172,7 @@ const OfferSection = () => {
                 </div>
                 <div className="flex items-center gap-1">
                   <Shield className="w-3 h-3 md:w-4 md:h-4 text-success-green" />
-                  <span className="font-body text-soft-gray-dark">Garantia de 7 dias</span>
+                  <span className="font-body text-soft-gray-dark">Garantia de 30 dias</span>
                 </div>
               </div>
             </div>
