@@ -43,7 +43,7 @@ const FinalCTASection = () => {
           </Button>
           
           <p className="font-body text-white/80 text-xs md:text-sm px-2">
-            🔒 Pagamento 100% seguro • ⚡ Acesso imediato • 🛡️ Garantia de 7 dias
+            🔒 Pagamento 100% seguro • ⚡ Acesso imediato • 🛡️ Garantia de 30 dias
           </p>
         </div>
 
@@ -54,7 +54,7 @@ const FinalCTASection = () => {
             <p className="font-body text-xs md:text-sm text-white/80">Mães já transformaram suas noites</p>
           </div>
           <div className="bg-white/5 rounded-lg p-3 md:p-4">
-            <p className="font-heading text-xl md:text-2xl font-bold text-golden-yellow">7 dias</p>
+            <p className="font-heading text-xl md:text-2xl font-bold text-golden-yellow">30 dias</p>
             <p className="font-body text-xs md:text-sm text-white/80">Garantia incondicional</p>
           </div>
           <div className="bg-white/5 rounded-lg p-3 md:p-4">
