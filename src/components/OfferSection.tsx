@@ -90,10 +90,10 @@ const OfferSection = () => {
                   <Check className="w-4 h-4 md:w-5 md:h-5 text-success-green flex-shrink-0 mt-1" />
                   <div>
                     <h4 className="font-body text-sm md:text-base font-semibold text-night-blue-dark mb-1">
-                      📘 4. Navegando as Regressões de Sono
+                      📘 4. O Manual da Confiança
                     </h4>
                     <p className="font-body text-xs md:text-sm text-soft-gray-dark">
-                      As regressões não precisam ser um pesadelo. Aqui você encontra explicações claras e planos de ação para cada idade.
+                      O guia definitivo para entender o sono do seu bebê, transformar insegurança em confiança e criar um ambiente seguro para noites tranquilas.
                     </p>
                   </div>
                 </div>
